@@ -22,7 +22,7 @@ const AboutPage = () => {
           <div className="max-w-6xl mx-auto bg-white rounded-lg shadow-lg overflow-hidden">
             <div className="md:flex">
               <div className="md:flex-shrink-0">
-                <img className="h-full w-full object-cover md:w-72" src="/owner_image.webp" alt="App Owner" />
+                <img className="h-full w-full object-cover md:w-72" src="/yusuf_photo.png" alt="App Owner" />
               </div>
               <div className="p-8">
                 <div className="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Founder & CEO</div>
