@@ -90,7 +90,7 @@ export default function Navbar() {
             isScrolled ? "text-gray-800" : "text-white"
           }`}
         >
-          Learn Easy
+          <img src="/logo.png" alt="logo" className="h-24" />
         </Link>
         <div className="hidden lg:flex space-x-6">
           <NavItem href="/blogs" label="Blogs" isScrolled={isScrolled} />

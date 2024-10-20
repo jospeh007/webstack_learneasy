@@ -4,7 +4,7 @@ import BlogIllustration from "../assets/blog.svg"
 
 export default function HeroSection() {
   return (
-    <div className="min-h-screen pt-20 relative overflow-hidden" style={{ background: 'linear-gradient(to bottom, #370b6f, #00429b, #006dba, #0095ce, #2dbcdc)' }}>
+    <div className="min-h-screen pt-28 relative overflow-hidden" style={{ background: 'linear-gradient(to bottom, #370b6f, #00429b, #006dba, #0095ce, #2dbcdc)' }}>
       <div className="px-10 mx-auto py-5 lg:py-20 relative z-10">
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 text-white">
