@@ -1,4 +1,4 @@
-Learn Easy is a platform I created to help people improve their learning. On the website, I share blogs that talk about new learning methods, tips for studying, and ways to make learning easier and more fun. The blog section is regularly updated with useful content for anyone looking to enhance their skills.
+# Learn Easy is a platform I created to help people improve their learning. On the website, I share blogs that talk about new learning methods, tips for studying, and ways to make learning easier and more fun. The blog section is regularly updated with useful content for anyone looking to enhance their skills.
 
 # React + Vite
 
